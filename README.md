@@ -1,8 +1,8 @@
 ### Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://img.20mn.fr/ft35ssenS76oUONRXokjzw/960x614_extrait-film-taxi-2-samy-naceri)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://img.20mn.fr/ft35ssenS76oUONRXokjzw/960x614_extrait-film-taxi-2-samy-naceri)">
- <img alt="YOUR-ALT-TEXT" src="[https://img.20mn.fr/ft35ssenS76oUONRXokjzw/960x614_extrait-film-taxi-2-samy-naceri]">
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE](https://img.20mn.fr/ft35ssenS76oUONRXokjzw/960x614_extrait-film-taxi-2-samy-naceri">
+ <source media="(prefers-color-scheme: light)" srcset="https://img.20mn.fr/ft35ssenS76oUONRXokjzw/960x614_extrait-film-taxi-2-samy-naceri">
+ <img alt="YOUR-ALT-TEXT" src="https://img.20mn.fr/ft35ssenS76oUONRXokjzw/960x614_extrait-film-taxi-2-samy-naceri">
 </picture>
 <!--
 **GoshtSomsa/GoshtSomsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
